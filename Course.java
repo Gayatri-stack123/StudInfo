@@ -1,4 +1,4 @@
-public class StudentReport {
+public class Course {
     public static void main(String[] args) {
         // Semester 1 courses and marks
         String[] semester1Courses = {"Mathematics", "Physics", "Chemistry"};
